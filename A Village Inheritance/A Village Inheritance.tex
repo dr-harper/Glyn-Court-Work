@@ -1,0 +1,115 @@
+\documentclass[12pt]{book}
+\usepackage[utf8]{inputenc}
+\usepackage[bmargin=0.5in, headsep = 0.5cm, footskip = 0.75cm, tmargin = 0.75in, bindingoffset=0.25in, outer = 0.5in, paperwidth=15cm, paperheight=23cm]{geometry} 
+
+% Format Page
+\setcounter{tocdepth}{0} % Set Number of Levels to TOC
+
+%\setlength{\parindent}{0pt} % Change Paragraph Indent
+% \usepackage[none]{hyphenat} % Prevent Hyphenation
+\usepackage{adforn} % For adding flourish
+\usepackage{graphicx} % for figures
+\usepackage{enumitem} % Allows lists to have no item space
+\pdfmapfile{+OrnementsADF.map}
+
+\usepackage[font={small}]{caption}
+
+%%% to allow custom headings
+\usepackage{titlesec}
+% to change titles font family
+\usepackage{titling}
+
+% Change font for all document
+{\fontfamily{cmss}\selectfont
+  \renewcommand{\encodingdefault}{T1}
+  \renewcommand{\rmdefault}{cmss}
+  
+% Change chapter heading
+\titleformat{\chapter}[display]
+        {\normalfont\Large\centering}{\chaptertitlename\ \thechapter}{0pt}{\Large\uppercase}
+
+
+% Book Information
+% ----------------
+\title{A Village Inheritance}
+\author{Glyn and Clare Court}
+
+% Custom Formatting Commands
+% --------------------------
+\newcommand{\Chapter}[2]{\chapter[#1]{#1\\[1ex]\small#2}}  % Add subtitle to chapter
+\newcommand{\Flourish}{\vspace{-5mm}\begin{center}\huge{\adforn{21}}\end{center}\vspace{-5mm}} %Add Flourish
+\newcommand*{\plogo}{\fbox{\textbf{MH}}} % Generic publisher logo
+
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+
+\newcommand*{\titleBC}{\begingroup % Create the command for including the title page in the document
+\centering % Center all text
+\huge{A Village Inheritance} % Title
+
+\vfill % Whitespace between the title and the author name
+\Large{Glyn and Clare Court} % Author name
+
+\vfill % Whitespace between the author name and the publisher logo
+\normalsize
+\plogo\\[0.5\baselineskip]
+First Edition printed in 1975 \\
+Reprinted in 2017 \\% Year published
+\centering
+Edited \& Published by Michael Harper \\
+ISBN 2352350
+
+\newpage
+
+To the happy memory of my parents William George and Ada Palser Court \\
+
+\newpage
+
+This book is a joint venture, but not to the extent of the authors writing alternate words. To save lengthy explanations, each chapter is prefaced with the name of the author.
+
+\endgroup}
+
+
+% Book Content
+% ------------
+
+\begin{document}
+
+\frontmatter
+
+\thispagestyle{empty}  % Removes page numbers
+\titleBC 
+
+\parskip=-0.7em % Negative Parskip set to compress TOC
+\tableofcontents
+
+\mainmatter	
+
+\setlength{\parskip}{0.5em} % Change Paragraph spacing
+\pagestyle{headings}
+
+\input{Chapters/C1_StartingPoints.tex}
+\input{Chapters/C2_OurParish.tex}
+\input{Chapters/C3_Roadwater.tex}
+\input{Chapters/C4_MyFather.tex}
+\input{Chapters/C5_MyFirstVisit.tex}
+\input{Chapters/C6_TimesRemembered.tex}
+\input{Chapters/C7_TheBuildingOfTheHouse.tex}
+\input{Chapters/C8_OfOakenThings.tex}
+\input{Chapters/C9_AnArtistAtHome.tex}
+\input{Chapters/C10_TheGarden.tex}
+\input{Chapters/C11_AnArtistAbroad.tex}
+\input{Chapters/C12_BusinessAsIRemeberIt.tex}
+\input{Chapters/C13_TheBakehouse.tex}
+\input{Chapters/C14_TheWomenOfTheFamily.tex}
+\input{Chapters/C15_WeInheritTheProperty.tex}
+\input{Chapters/C16_BriefFlirtationWithCommerce.tex}
+\input{Chapters/C17_TimesBestForgotten.tex}
+\input{Chapters/C18_Problems.tex}
+\input{Chapters/C19_MakingTheMuseum.tex}
+\input{Chapters/C20_TreasureTrove.tex}
+\input{Chapters/C21_MenAndTheirMonuments.tex}
+\input{Chapters/C22_Epilogue.tex}
+
+\end{document}
