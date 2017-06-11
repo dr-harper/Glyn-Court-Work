@@ -1,27 +1,24 @@
-## Bibliography
+## List of Work
 
-Below is the complete list of Work for Glyn Court
+Draft list of work. To be developed into a proper bibliography. **Text in bold** is text which was difficult to read and needs clarifying.
 
-1948: first year home after the war
+*1948: first year home after the war*
 - With Men for Pieces (2 soldiers, British and Japanese, how they met, **misunderstanding** and died)
+
 - Passage to India (how it was for other ranks, not officers)
 - The Road to Yell (Pride of **something** Army) encounter. 
-
+- Meeting Burmese villagers
+- Attitudes towards officers
+- Fighting and patrolling on river, **in somewhere**
+- Marching in the desert
+- Marching by night
 
 - Thesis: what is the title of this?
-
-
-
-
-
-
 - Anti-clerifcal 
-
 - The Bible Christians: a world wide family
 - Frank Dymond of Cleeve
 
-
-1960 Articles:
+*1960 Articles:*
 - Two West Somerset Post Offices: Recollection
 - Exmoor 
 - The While **Dove** of Bardon (Mary Queen of Scots)
@@ -66,8 +63,10 @@ Below is the complete list of Work for Glyn Court
 - Perambulant of Wasford: assigning people to houses in my boyhood
 
 
-## With Claire:
+*With Clare:*
+
 - 2004 The book of Roadwater, Leighland and Treborough: an Exmoor valley [link](http://www.worldcat.org/title/book-of-roadwater-leighland-and-treborough-an-exmoor-valley-discovered/oclc/62223898&referer=brief_results)
+
 - King Alfred Defence of Wessex and the Making of England
 - Songs of Somerset. The Legends and anecdotes put into verse and set to Somerset folk songs **on something**
 - Liberal and Political: in campagains. **Movemeent re-read them**
@@ -79,9 +78,10 @@ Below is the complete list of Work for Glyn Court
 - Notes by the Way: approx 1500 words weekly 1984- 1994 (West Somerset Free Press)
  
 
-## Other works
-Found online by searching for author:
+*Other works:*
+This work was found online.
 
 - 2006: Minehead to Watchet
+
 - 1996: Rail Extracts from Minehead & Watchet
 - 1987 Exmoor National Part
