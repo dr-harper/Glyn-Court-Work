@@ -1,15 +1,13 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2017.2.24)  7 JUN 2017 17:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.7)  11 JUN 2017 16:16
 entering extended mode
-**A*Village*Inheritance.tex
-
-("C:\Users\mh8g10\Documents\GitHub\Glyn-Court-Work\A Village Inheritance\A Vill
-age Inheritance.tex"
-LaTeX2e <2014/05/01>
-Babel <3.9k> and hyphenation patterns for 74 languages loaded.
-("C:\MiKTeX 2.9\tex\latex\base\book.cls"
-Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
-("C:\MiKTeX 2.9\tex\latex\base\bk12.clo"
-File: bk12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+**"./A Village Inheritance.tex"
+("A Village Inheritance.tex"
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls"
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\bk11.clo"
+File: bk11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@chapter=\count80
@@ -24,23 +22,25 @@ File: bk12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\MiKTeX 2.9\tex\latex\base\inputenc.sty"
-Package: inputenc 2014/04/30 v1.2b Input encoding file
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
-("C:\MiKTeX 2.9\tex\latex\base\utf8.def"
-File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-("C:\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
-File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
    defining Unicode char U+00BB (decimal 187)
    defining Unicode char U+00BF (decimal 191)
    defining Unicode char U+00C0 (decimal 192)
@@ -105,50 +105,94 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00FD (decimal 253)
    defining Unicode char U+00FE (decimal 254)
    defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
    defining Unicode char U+0102 (decimal 258)
    defining Unicode char U+0103 (decimal 259)
    defining Unicode char U+0104 (decimal 260)
    defining Unicode char U+0105 (decimal 261)
    defining Unicode char U+0106 (decimal 262)
    defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
    defining Unicode char U+010C (decimal 268)
    defining Unicode char U+010D (decimal 269)
    defining Unicode char U+010E (decimal 270)
    defining Unicode char U+010F (decimal 271)
    defining Unicode char U+0110 (decimal 272)
    defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
    defining Unicode char U+0118 (decimal 280)
    defining Unicode char U+0119 (decimal 281)
    defining Unicode char U+011A (decimal 282)
    defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
    defining Unicode char U+011E (decimal 286)
    defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
    defining Unicode char U+0130 (decimal 304)
    defining Unicode char U+0131 (decimal 305)
    defining Unicode char U+0132 (decimal 306)
    defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
    defining Unicode char U+0139 (decimal 313)
    defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
    defining Unicode char U+013D (decimal 317)
    defining Unicode char U+013E (decimal 318)
    defining Unicode char U+0141 (decimal 321)
    defining Unicode char U+0142 (decimal 322)
    defining Unicode char U+0143 (decimal 323)
    defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
    defining Unicode char U+0147 (decimal 327)
    defining Unicode char U+0148 (decimal 328)
    defining Unicode char U+014A (decimal 330)
    defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
    defining Unicode char U+0150 (decimal 336)
    defining Unicode char U+0151 (decimal 337)
    defining Unicode char U+0152 (decimal 338)
    defining Unicode char U+0153 (decimal 339)
    defining Unicode char U+0154 (decimal 340)
    defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
    defining Unicode char U+0158 (decimal 344)
    defining Unicode char U+0159 (decimal 345)
    defining Unicode char U+015A (decimal 346)
    defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
    defining Unicode char U+015E (decimal 350)
    defining Unicode char U+015F (decimal 351)
    defining Unicode char U+0160 (decimal 352)
@@ -157,10 +201,22 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+0163 (decimal 355)
    defining Unicode char U+0164 (decimal 356)
    defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
    defining Unicode char U+016E (decimal 366)
    defining Unicode char U+016F (decimal 367)
    defining Unicode char U+0170 (decimal 368)
    defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
    defining Unicode char U+0178 (decimal 376)
    defining Unicode char U+0179 (decimal 377)
    defining Unicode char U+017A (decimal 378)
@@ -168,9 +224,40 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+017C (decimal 380)
    defining Unicode char U+017D (decimal 381)
    defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+0232 (decimal 562)
+   defining Unicode char U+0233 (decimal 563)
+   defining Unicode char U+1E02 (decimal 7682)
+   defining Unicode char U+1E03 (decimal 7683)
    defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2010 (decimal 8208)
+   defining Unicode char U+2011 (decimal 8209)
+   defining Unicode char U+2012 (decimal 8210)
    defining Unicode char U+2013 (decimal 8211)
    defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2015 (decimal 8213)
    defining Unicode char U+2018 (decimal 8216)
    defining Unicode char U+2019 (decimal 8217)
    defining Unicode char U+201A (decimal 8218)
@@ -182,14 +269,18 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+2039 (decimal 8249)
    defining Unicode char U+203A (decimal 8250)
    defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+1E20 (decimal 7712)
+   defining Unicode char U+1E21 (decimal 7713)
 )
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-("C:\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
-File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
    defining Unicode char U+00B8 (decimal 184)
    defining Unicode char U+00BF (decimal 191)
    defining Unicode char U+00C5 (decimal 197)
@@ -207,6 +298,14 @@ File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+0142 (decimal 322)
    defining Unicode char U+0152 (decimal 338)
    defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
    defining Unicode char U+2013 (decimal 8211)
    defining Unicode char U+2014 (decimal 8212)
    defining Unicode char U+2018 (decimal 8216)
@@ -217,8 +316,8 @@ File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-("C:\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
-File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
    defining Unicode char U+00B7 (decimal 183)
@@ -241,22 +340,21 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-("C:\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-("C:\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
-Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-("C:\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
-("C:\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
-Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count88
@@ -272,69 +370,69 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks17
 
-("C:\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-("C:\MiKTeX 2.9\tex\latex\adforn\adforn.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+(C:\Users\Mikey\AppData\Roaming\MiKTeX\2.9\tex\latex\adforn\adforn.sty
 Package: adforn 2010/07/25 v1.0 adforn CFR
 
-("C:\MiKTeX 2.9\tex\latex\psnfss\pifont.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\pifont.sty"
 Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
 LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
 
-("C:\MiKTeX 2.9\tex\latex\psnfss\upzd.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\upzd.fd"
 File: upzd.fd 2001/06/04 font definitions for U/pzd.
 )
 LaTeX Font Info:    Try loading font information for U+psy on input line 64.
 
-("C:\MiKTeX 2.9\tex\latex\psnfss\upsy.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\upsy.fd"
 File: upsy.fd 2001/06/04 font definitions for U/psy.
 ))
 LaTeX Font Info:    Try loading font information for U+OrnementsADF on input li
 ne 4.
 
-("C:\MiKTeX 2.9\tex\latex\adforn\uornementsadf.fd"))
-("C:\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
-Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+(C:\Users\Mikey\AppData\Roaming\MiKTeX\2.9\tex\latex\adforn\uornementsadf.fd))
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\MiKTeX 2.9\tex\latex\graphics\trig.sty"
-Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
-File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 91.
+Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
 File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
 
-("C:\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count91
 ))
 \Gin@req@height=\dimen111
 \Gin@req@width=\dimen112
 )
-("C:\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
+(C:\Users\Mikey\AppData\Roaming\MiKTeX\2.9\tex\latex\enumitem\enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \labelindent=\skip43
 \enit@outerparindent=\dimen113
 \enit@toks=\toks18
 \enit@inbox=\box26
 \enitdp@description=\count92
-){C:/Users/mh8g10/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}{C:/MiKTeX 
-2.9/fonts/map/dvips/adforn/OrnementsADF.map} ("C:\MiKTeX 2.9\tex\latex\caption\
-caption.sty"
-Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+){C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}{C:/Users/Mikey/AppData/Ro
+aming/MiKTeX/2.9/fonts/map/dvips/adforn/OrnementsADF.map}
+(C:\Users\Mikey\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
-("C:\MiKTeX 2.9\tex\latex\caption\caption3.sty"
-Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 57.
+(C:\Users\Mikey\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
 \captionmargin=\dimen114
 \captionmargin@=\dimen115
 \captionwidth=\dimen116
@@ -345,8 +443,8 @@ Package caption3 Info: TeX engine: e-TeX on input line 57.
 )
 \c@ContinuedFloat=\count93
 )
-("C:\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
-Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+(C:\Users\Mikey\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \ttl@box=\box27
 \beforetitleunit=\skip44
 \aftertitleunit=\skip45
@@ -357,7 +455,7 @@ Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \titlewidthlast=\dimen124
 \titlewidthfirst=\dimen125
 )
-("C:\MiKTeX 2.9\tex\latex\titling\titling.sty"
+(C:\Users\Mikey\AppData\Roaming\MiKTeX\2.9\tex\latex\titling\titling.sty
 Package: titling 2009/09/04 v2.1d maketitle typesetting
 \thanksmarkwidth=\skip46
 \thanksmargin=\skip47
@@ -365,11 +463,13 @@ Package: titling 2009/09/04 v2.1d maketitle typesetting
 )
 LaTeX Font Info:    Try loading font information for U+cmss on input line 23.
 
-("C:\MiKTeX 2.9\tex\latex\base\ucmss.fd"
-File: ucmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ucmss.fd"
+File: ucmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-("C:\Users\mh8g10\Documents\GitHub\Glyn-Court-Work\A Village Inheritance\build\
-A Village Inheritance.aux")
+("C:\Users\Mikey\Documents\GitHub\Glyn-Court-Work\A Village Inheritance\build\A
+ Village Inheritance.aux")
+\openout1 = `"A Village Inheritance.aux"'.
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
 LaTeX Font Info:    ... okay on input line 77.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
@@ -383,8 +483,9 @@ LaTeX Font Info:    ... okay on input line 77.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
 LaTeX Font Info:    ... okay on input line 77.
 LaTeX Font Info:    Try loading font information for T1+cmss on input line 77.
- ("C:\MiKTeX 2.9\tex\latex\base\t1cmss.fd"
-File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmss.fd"
+File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -406,12 +507,12 @@ File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 * \topmargin=-44.29385pt
 * \headheight=12.0pt
 * \headsep=14.22636pt
-* \topskip=12.0pt
+* \topskip=11.0pt
 * \footskip=21.33955pt
-* \marginparwidth=98.0pt
+* \marginparwidth=116.0pt
 * \marginparsep=7.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -421,7 +522,7 @@ File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-("C:\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+(C:\Users\Mikey\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count94
 \scratchdimen=\dimen126
@@ -434,12 +535,12 @@ File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 \MPnumerator=\count98
 \makeMPintoPDFobject=\count99
 \everyMPtoPDFconversion=\toks21
-) ("C:\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
 Package pdftexcmds Info: LuaTeX not detected.
@@ -447,51 +548,52 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-("C:\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
-Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
-Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
-Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 ))
-("C:\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-34.
+38.
 Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 452.
+(grfext)             \AppendGraphicsExtensions on input line 456.
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
  [1
 
 
-] [2] [3] [4
+]
+[2] [3] [4
 
 ]
-("C:\Users\mh8g10\Documents\GitHub\Glyn-Court-Work\A Village Inheritance\build\
-A Village Inheritance.toc")
+("C:\Users\Mikey\Documents\GitHub\Glyn-Court-Work\A Village Inheritance\build\A
+ Village Inheritance.toc")
 \tf@toc=\write3
+\openout3 = `"A Village Inheritance.toc"'.
+
  [5] [6
 
-]
-("C:\Users\mh8g10\Documents\GitHub\Glyn-Court-Work\A Village Inheritance\Chapte
-rs/C1_StartingPoints.tex"
+] (Chapters/C1_StartingPoints.tex
 Chapter 1.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -499,8 +601,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1
 
 ])
-("C:\Users\mh8g10\Documents\GitHub\Glyn-Court-Work\A Village Inheritance\Chapte
-rs/C2_OurParish.tex"
+(Chapters/C2_OurParish.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2]
@@ -515,15 +616,10 @@ File: figures/oldCleeve.jpg Graphic file (type jpg)
 Package pdftex.def Info: figures/oldCleeve.jpg used on input line 7.
 (pdftex.def)             Requested size: 323.54149pt x 541.4133pt.
 
-
-LaTeX Warning: Float too large for page by 0.93741pt on input line 10.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5]
-[6 <C:/Users/mh8g10/Documents/GitHub/Glyn-Court-Work/A Village Inheritance/figu
-res/oldCleeve.jpg>]
+[6 <./figures/oldCleeve.jpg>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7]
@@ -554,56 +650,46 @@ Package pdftex.def Info: figures/inclineTop.jpg used on input line 50.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9]
-[10 <C:/Users/mh8g10/Documents/GitHub/Glyn-Court-Work/A Village Inheritance/fig
-ures/comberowIncline.jpg>] [11 <C:/Users/mh8g10/Documents/GitHub/Glyn-Court-Wor
-k/A Village Inheritance/figures/pontypoolWatchet.jpg> <C:/Users/mh8g10/Document
-s/GitHub/Glyn-Court-Work/A Village Inheritance/figures/inclineTop.jpg>]
+[10 <./figures/comberowIncline.jpg>] [11 <./figures/pontypoolWatchet.jpg> <./fi
+gures/inclineTop.jpg>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [12]
-Overfull \hbox (1.26935pt too wide) in paragraph at lines 65--67
-\T1/cmss/m/n/12 com-pany built a sta-tion at Road-wa-ter, ap-pointed Great-Gran
-dfather
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [13])
-("C:\Users\mh8g10\Documents\GitHub\Glyn-Court-Work\A Village Inheritance\Chapte
-rs/C3_Roadwater.tex" [14]
-Chapter 3.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [15
+ [12])
+(Chapters/C3_Roadwater.tex [13] [14
 
 ]
-[16]
+Chapter 3.
+
+Underfull \vbox (badness 3612) has occurred while \output is active []
+
+ [15]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 34.
 
-<figures/Glasses.jpg, id=82, 447.7455pt x 293.679pt>
+<figures/Glasses.jpg, id=79, 447.7455pt x 293.679pt>
 File: figures/Glasses.jpg Graphic file (type jpg)
  <use figures/Glasses.jpg>
 Package pdftex.def Info: figures/Glasses.jpg used on input line 35.
 (pdftex.def)             Requested size: 323.54149pt x 212.22395pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [17 <C:/Users/mh8g10/Documents/GitHub/Glyn-Court-Work/A Village Inheritance/fi
-gures/Glasses.jpg>] <figures/bridgeVillageShop.jpg, id=86, 160.6pt x 109.6095pt
->
+[16] <figures/bridgeVillageShop.jpg, id=83, 160.6pt x 109.6095pt>
 File: figures/bridgeVillageShop.jpg Graphic file (type jpg)
 
 <use figures/bridgeVillageShop.jpg>
 Package pdftex.def Info: figures/bridgeVillageShop.jpg used on input line 50.
 (pdftex.def)             Requested size: 323.54149pt x 220.824pt.
- [18 <C:/Users/mh8g10/Documents/GitHub/Glyn-Court-Work/A Village Inheritance/fi
-gures/bridgeVillageShop.jpg>] [19] [20])
-("C:\Users\mh8g10\Documents\GitHub\Glyn-Court-Work\A Village Inheritance\Chapte
-rs/C4_MyFather.tex" [21] [22
+
+Underfull \vbox (badness 1648) has occurred while \output is active []
+
+ [17 <./figures/Glasses.jpg>]
+Underfull \vbox (badness 4995) has occurred while \output is active []
+
+ [18 <./figures/bridgeVillageShop.jpg>] [19]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20])
+(Chapters/C4_MyFather.tex [21] [22
 
 ]
 Chapter 4.
@@ -621,13 +707,13 @@ Package pdftex.def Info: figures/WilliamCourt.jpg used on input line 11.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [24]
-[25 <C:/Users/mh8g10/Documents/GitHub/Glyn-Court-Work/A Village Inheritance/fig
-ures/WilliamCourt.jpg>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[25 <./figures/WilliamCourt.jpg>]
+Overfull \hbox (0.33281pt too wide) in paragraph at lines 22--23
+\T1/cmss/m/n/10.95 even though he would have ac-knowl-edge Goethe's apho-rism t
+hat "against
+ []
 
- [26])
-("C:\Users\mh8g10\Documents\GitHub\Glyn-Court-Work\A Village Inheritance\Chapte
-rs/C5_MyFirstVisit.tex" [27] [28
+) (Chapters/C5_MyFirstVisit.tex [26] [27] [28
 
 ]
 Chapter 5.
@@ -644,31 +730,21 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [32]
-Overfull \hbox (0.74867pt too wide) in paragraph at lines 15--16
-\T1/cmss/m/n/12 The po-si-tion is ad-mirably shel-tered, es-pe-cially from the 
-brisk breezes
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [33]
+ [33])
+(Chapters/C6_TimesRemembered.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [34])
-("C:\Users\mh8g10\Documents\GitHub\Glyn-Court-Work\A Village Inheritance\Chapte
-rs/C6_TimesRemembered.tex"
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [34]
+[35] [36
 
- [35]
-[36]
+]
 Chapter 6.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [37
-
-]
+ [37]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [38]
@@ -684,17 +760,15 @@ Package pdftex.def Info: figures/familyPhoto.jpg used on input line 18.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [40])
-("C:\Users\mh8g10\Documents\GitHub\Glyn-Court-Work\A Village Inheritance\Chapte
-rs/C7_TheBuildingOfTheHouse.tex" [41 <C:/Users/mh8g10/Documents/GitHub/Glyn-Cou
-rt-Work/A Village Inheritance/figures/familyPhoto.jpg>] [42]
+ [40 <./figures/familyPhoto.jpg>]) (Chapters/C7_TheBuildingOfTheHouse.tex [41] 
+[42
+
+]
 Chapter 7.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [43
-
-]
+ [43]
 <figures/WashfordMap1910.jpg, id=172, 715.473pt x 914.8725pt>
 File: figures/WashfordMap1910.jpg Graphic file (type jpg)
 
@@ -712,24 +786,18 @@ Package pdftex.def Info: figures/Washford1900s.jpg used on input line 14.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [44]
-[45 <C:/Users/mh8g10/Documents/GitHub/Glyn-Court-Work/A Village Inheritance/fig
-ures/WashfordMap1910.jpg>]
-Underfull \vbox (badness 6944) has occurred while \output is active []
-
- [46 <C:/Users/mh8g10/Documents/GitHub/Glyn-Court-Work/A Village Inheritance/fi
-gures/Washford1900s.jpg>]
-<figures/WashfordGarden1900.jpg, id=183, 383.031pt x 231.14355pt>
+[45 <./figures/WashfordMap1910.jpg>]
+<figures/WashfordGarden1900.jpg, id=180, 383.031pt x 231.14355pt>
 File: figures/WashfordGarden1900.jpg Graphic file (type jpg)
 
 <use figures/WashfordGarden1900.jpg>
 Package pdftex.def Info: figures/WashfordGarden1900.jpg used on input line 24.
 (pdftex.def)             Requested size: 323.54149pt x 195.25613pt.
- [47 <C:/Users/mh8g10/Documents/GitHub/Glyn-Court-Work/A Village Inheritance/fi
-gures/WashfordGarden1900.jpg>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [46 <./figures/Washford1900s.jpg>]
+Underfull \vbox (badness 2359) has occurred while \output is active []
 
- [48]
-<figures/HillHeadHouse.jpg, id=190, 2154.54938pt x 1387.43344pt>
+ [47 <./figures/WashfordGarden1900.jpg>]
+<figures/HillHeadHouse.jpg, id=187, 2154.54938pt x 1387.43344pt>
 File: figures/HillHeadHouse.jpg Graphic file (type jpg)
 
 <use figures/HillHeadHouse.jpg>
@@ -738,49 +806,40 @@ Package pdftex.def Info: figures/HillHeadHouse.jpg used on input line 38.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [49 <C:/Users/mh8g10/Documents/GitHub/Glyn-Court-Work/A Village Inheritance/fi
-gures/HillHeadHouse.jpg>]
+ [48]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [49 <./figures/HillHeadHouse.jpg>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [50]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [51]
-[52])
-("C:\Users\mh8g10\Documents\GitHub\Glyn-Court-Work\A Village Inheritance\Chapte
-rs/C8_OfOakenThings.tex" [53] [54
-
-]
+[51]) (Chapters/C8_OfOakenThings.tex [52]
 Chapter 8.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [55]
+ [53
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [54]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [55])
+(Chapters/C9_AnArtistAtHome.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [56]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [57]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [58])
-("C:\Users\mh8g10\Documents\GitHub\Glyn-Court-Work\A Village Inheritance\Chapte
-rs/C9_AnArtistAtHome.tex"
-Overfull \hbox (4.69635pt too wide) in paragraph at lines 19--1
-\T1/cmss/m/n/12 of fur-ni-ture is un-doubt-edly the three-cornered cup-board wh
-ich stands
- []
-
-[59] [60
+[57] [58
 
 ]
 Chapter 9.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [61]
-<figures/Fireplace.jpg, id=233, 795.2985pt x 761.1345pt>
+ [59]
+<figures/Fireplace.jpg, id=226, 795.2985pt x 761.1345pt>
 File: figures/Fireplace.jpg Graphic file (type jpg)
 
 <use figures/Fireplace.jpg>
@@ -789,44 +848,46 @@ Package pdftex.def Info: figures/Fireplace.jpg used on input line 13.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [62]
-[63 <C:/Users/mh8g10/Documents/GitHub/Glyn-Court-Work/A Village Inheritance/fig
-ures/Fireplace.jpg>])
-("C:\Users\mh8g10\Documents\GitHub\Glyn-Court-Work\A Village Inheritance\Chapte
-rs/C10_TheGarden.tex"
+ [60]
+[61 <./figures/Fireplace.jpg>]) (Chapters/C10_TheGarden.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [64]
-[65] [66
+ [62]
+[63] [64
 
 ]
 Chapter 10.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [67]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [68]
-[69] <figures/CleeveAbbey.jpg, id=259, 391.9005pt x 247.3605pt>
+ [65]
+[66] <figures/CleeveAbbey.jpg, id=249, 391.9005pt x 247.3605pt>
 File: figures/CleeveAbbey.jpg Graphic file (type jpg)
 
 <use figures/CleeveAbbey.jpg>
 Package pdftex.def Info: figures/CleeveAbbey.jpg used on input line 17.
 (pdftex.def)             Requested size: 323.54149pt x 204.2259pt.
 
-<figures/ChapterHouse.jpg, id=260, 416.538pt x 292.365pt>
+<figures/ChapterHouse.jpg, id=250, 416.538pt x 292.365pt>
 File: figures/ChapterHouse.jpg Graphic file (type jpg)
 
 <use figures/ChapterHouse.jpg>
 Package pdftex.def Info: figures/ChapterHouse.jpg used on input line 24.
 (pdftex.def)             Requested size: 323.54149pt x 227.09357pt.
 
-Underfull \vbox (badness 7326) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [70 <C:/Users/mh8g10/Documents/GitHub/Glyn-Court-Work/A Village Inheritance/fi
-gures/CleeveAbbey.jpg>] [71 <C:/Users/mh8g10/Documents/GitHub/Glyn-Court-Work/A
- Village Inheritance/figures/ChapterHouse.jpg>]
+ [67]
+[68 <./figures/CleeveAbbey.jpg> <./figures/ChapterHouse.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [69]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [70]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [71]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [72]
@@ -838,39 +899,30 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [74]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [75]
+ [75])
+(Chapters/C11_AnArtistAbroad.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [76]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[77] [78
 
- [77]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [78]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [79])
-("C:\Users\mh8g10\Documents\GitHub\Glyn-Court-Work\A Village Inheritance\Chapte
-rs/C11_AnArtistAbroad.tex" [80]
+]
 Chapter 11.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [81
-
-]
+ [79]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [82]
+ [80]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [83]
+ [81]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 27.
 
-<figures/Summerhouse.jpg, id=305, 864.612pt x 1294.29pt>
+<figures/Summerhouse.jpg, id=299, 864.612pt x 1294.29pt>
 File: figures/Summerhouse.jpg Graphic file (type jpg)
 
 <use figures/Summerhouse.jpg>
@@ -879,18 +931,22 @@ Package pdftex.def Info: figures/Summerhouse.jpg used on input line 29.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [84]
-[85 <C:/Users/mh8g10/Documents/GitHub/Glyn-Court-Work/A Village Inheritance/fig
-ures/Summerhouse.jpg>]
+ [82]
+[83 <./figures/Summerhouse.jpg>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [86])
-("C:\Users\mh8g10\Documents\GitHub\Glyn-Court-Work\A Village Inheritance\Chapte
-rs/C12_BusinessAsIRemeberIt.tex" [87] [88
+ [84])
+(Chapters/C12_BusinessAsIRemeberIt.tex [85] [86
 
 ]
 Chapter 12.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [87]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [88]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [89]
@@ -900,23 +956,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [91]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [92]
-Overfull \hbox (7.40533pt too wide) in paragraph at lines 33--34
-\T1/cmss/m/n/12 mote farm-stead af-ter an-other: Bur-row, Gupvor-thy, Ar-moor, 
-Swansey,
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [93]
 Underfull \hbox (badness 10000) in paragraph at lines 42--46
 
  []
 
-[94] [95] [96] [97]
+
+Overfull \hbox (8.10942pt too wide) in paragraph at lines 58--59
+[]\T1/cmss/m/n/10.95 The post-men were, of course, vi-tal hu-man links in the m
+od-est mailorder
+ []
+
+[92] [93] [94]
 Underfull \hbox (badness 10000) in paragraph at lines 90--91
 
  []
@@ -929,191 +979,170 @@ Underfull \hbox (badness 10000) in paragraph at lines 102--103
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [98]
-Overfull \hbox (6.45969pt too wide) in paragraph at lines 120--121
-\T1/cmss/m/n/12 absorber-fitted drop-handlebar super-lightweight, aluminium-fra
-med,
- []
-
-
+ [95]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [99])
-("C:\Users\mh8g10\Documents\GitHub\Glyn-Court-Work\A Village Inheritance\Chapte
-rs/C13_TheBakehouse.tex" [100]
+ [96])
+(Chapters/C13_TheBakehouse.tex [97] [98
+
+]
 Chapter 13.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [101
+ [99]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [100])
+(Chapters/C14_TheWomenOfTheFamily.tex [101] [102
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [102])
-("C:\Users\mh8g10\Documents\GitHub\Glyn-Court-Work\A Village Inheritance\Chapte
-rs/C14_TheWomenOfTheFamily.tex"
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [103]
-[104]
 Chapter 14.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [105
+ [103]
+Overfull \hbox (0.15698pt too wide) in paragraph at lines 8--9
+[]\T1/cmss/m/n/10.95 When Grand-fa-ther died, the man-tle of fam-ily re-spon-si
+-bil-ity de-scended
+ []
 
-]
-[106]
+[104]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [105]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [106]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [107]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [108]
+[108]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [109]
-[110]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [111]
+ [110]
+[111]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [112]
-Overfull \hbox (12.96788pt too wide) in paragraph at lines 52--53
-[]\T1/cmss/m/n/12 During the pe-riod 1904-1920 Ada reg-u-larly at-tended the Me
-thodist
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [113]
-[114]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [114]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [115]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [116]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [117]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [118]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [119]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [120])
-("C:\Users\mh8g10\Documents\GitHub\Glyn-Court-Work\A Village Inheritance\Chapte
-rs/C15_WeInheritTheProperty.tex" [121] [122
+ [116])
+(Chapters/C15_WeInheritTheProperty.tex [117] [118
 
 ]
 Chapter 15.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [123]
+ [119]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [124]
+ [120]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [121]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [122]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [123]
+[124]) (Chapters/C16_BriefFlirtationWithCommerce.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [125]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [126]
+[127] [128
+
+]
+Chapter 16.
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [127]
-[128]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [129])
-("C:\Users\mh8g10\Documents\GitHub\Glyn-Court-Work\A Village Inheritance\Chapte
-rs/C16_BriefFlirtationWithCommerce.tex"
+ [129]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [130]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [131]
-[132]
-Chapter 16.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [133
-
-]
+[132] [133]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [134]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [135]
+ [135])
+(Chapters/C17_TimesBestForgotten.tex [136]
+Chapter 17.
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [136]
-[137]
+ [137
+
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [138]
+ [138])
+(Chapters/C18_Problems.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [139]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [140])
-("C:\Users\mh8g10\Documents\GitHub\Glyn-Court-Work\A Village Inheritance\Chapte
-rs/C17_TimesBestForgotten.tex" [141] [142]
-Chapter 17.
-
-Overfull \hbox (6.5279pt too wide) in paragraph at lines 3--4
-\T1/cmss/m/n/12 That first sum-mer we spent the whole of the school hol-i-days 
-wrestling
- []
-
+[140]
+Chapter 18.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [143
+ [141
 
 ]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [142]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [143]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [144]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [145])
-("C:\Users\mh8g10\Documents\GitHub\Glyn-Court-Work\A Village Inheritance\Chapte
-rs/C18_Problems.tex" [146]
-Chapter 18.
-
+ [145]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [147
-
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [148]
-Overfull \hbox (8.38948pt too wide) in paragraph at lines 13--14
-\T1/cmss/m/n/12 had al-ways ex-isted be-tween shop-keeper and cus-tomer. Post-m
-istresses
+ [146]
+Overfull \hbox (4.84111pt too wide) in paragraph at lines 40--45
+\T1/cmss/bx/n/10.95 P.P.S.M.\T1/cmss/m/n/10.95 : I'm the Weights and Mea-sures 
+Of-fi-cer so it seemed
  []
 
+[147] [148] <figures/HillHeadHouse1970.jpg, id=512, 559.73116pt x 424.4658pt>
+File: figures/HillHeadHouse1970.jpg Graphic file (type jpg)
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+<use figures/HillHeadHouse1970.jpg>
+Package pdftex.def Info: figures/HillHeadHouse1970.jpg used on input line 63.
+(pdftex.def)             Requested size: 323.54149pt x 245.35481pt.
+) (Chapters/C19_MakingTheMuseum.tex [149 <./figures/HillHeadHouse1970.jpg>] [15
+0
 
- [149]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+]
+Chapter 19.
 
- [150]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [151]
@@ -1123,70 +1152,76 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [153]
-[154] [155] <figures/HillHeadHouse1970.jpg, id=534, 559.73116pt x 424.4658pt>
-File: figures/HillHeadHouse1970.jpg Graphic file (type jpg)
-
-<use figures/HillHeadHouse1970.jpg>
-Package pdftex.def Info: figures/HillHeadHouse1970.jpg used on input line 63.
-(pdftex.def)             Requested size: 323.54149pt x 245.35481pt.
-)
-("C:\Users\mh8g10\Documents\GitHub\Glyn-Court-Work\A Village Inheritance\Chapte
-rs/C19_MakingTheMuseum.tex" [156 <C:/Users/mh8g10/Documents/GitHub/Glyn-Court-W
-ork/A Village Inheritance/figures/HillHeadHouse1970.jpg>]
-Chapter 19.
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [157
-
-]
+ [154]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [158]
+ [155]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [156]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [157]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [158])
+(Chapters/C20_TreasureTrove.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [159]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[160]
+Chapter 20.
 
- [160]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1014) has occurred while \output is active []
 
- [161]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [161
 
- [162]
+]
+[162]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [163]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [164]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1057) has occurred while \output is active []
 
- [165])
-("C:\Users\mh8g10\Documents\GitHub\Glyn-Court-Work\A Village Inheritance\Chapte
-rs/C20_TreasureTrove.tex"
+ [165]
+Overfull \hbox (3.32993pt too wide) in paragraph at lines 49--50
+\T1/cmss/m/n/10.95 wonted pros-per-ity into the neigh-bour-hood, and within fou
+r years William's
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [166]
-[167] [168
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [167]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [168])
+(Chapters/C21_MenAndTheirMonuments.tex [169] [170
 
 ]
-Chapter 20.
-[169]
-Overfull \hbox (5.09773pt too wide) in paragraph at lines 21--22
-[]\T1/cmss/m/n/12 George Grinslade - known to his de-scen-dants as "Gran-fer Ge
-orge"
- []
+Chapter 21.
 
-[170]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [171]
+Overfull \hbox (4.9567pt too wide) in paragraph at lines 14--15
+\T1/cmss/m/n/10.95 carving and made oaken side-boards, over-man-tles, cup-board
+s, book-shelves,
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [172]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1057) has occurred while \output is active []
 
  [173]
 [174]
@@ -1198,100 +1233,74 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [176]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [177])
-("C:\Users\mh8g10\Documents\GitHub\Glyn-Court-Work\A Village Inheritance\Chapte
-rs/C21_MenAndTheirMonuments.tex" [178]
-Chapter 21.
+ [177]
+[178]
+Underfull \vbox (badness 1057) has occurred while \output is active []
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [179
-
-]
+ [179]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [180]
-[181]
 Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [181]
+Underfull \vbox (badness 1057) has occurred while \output is active []
 
  [182]
 [183]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [184]
-Underfull \vbox (badness 3199) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [185]
+[186]) (Chapters/C22_Epilogue.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [186]
-[187] [188]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [189]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [190]
-[191]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [192]
-[193]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [194]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [195]
-[196]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [197])
-("C:\Users\mh8g10\Documents\GitHub\Glyn-Court-Work\A Village Inheritance\Chapte
-rs/C22_Epilogue.tex"
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [198]
-[199] [200
-
-]
+ [187]
+[188]
 Chapter 22.
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--5
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-)
-Underfull \vbox (badness 10000) has occurred while \output is active []
+) [189
 
- [201]
-[202]
-("C:\Users\mh8g10\Documents\GitHub\Glyn-Court-Work\A Village Inheritance\build\
-A Village Inheritance.aux") )
+]
+("C:\Users\Mikey\Documents\GitHub\Glyn-Court-Work\A Village Inheritance\build\A
+ Village Inheritance.aux")
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ )
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 23 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 4188 strings out of 493421
- 68670 string characters out of 3145848
- 140449 words of memory out of 3000000
- 7481 multiletter control sequences out of 15000+200000
- 11514 words of font info for 28 fonts, out of 3000000 for 9000
+ 4313 strings out of 493323
+ 68044 string characters out of 3139067
+ 143606 words of memory out of 3000000
+ 7701 multiletter control sequences out of 15000+200000
+ 11523 words of font info for 28 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,5n,38p,3688b,1158s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t1.enc}{C:/MiK
-TeX 2.9/fonts/enc/dvips/adforn/OrnementsADF.enc}<C:/MiKTeX 2.9/fonts/type1/arka
-ndis/adforn/OrnementsADF.pfb><C:/MiKTeX 2.9/fonts/type1/public/cm-super/sfsi120
-0.pfb><C:/MiKTeX 2.9/fonts/type1/public/cm-super/sfss1095.pfb><C:/MiKTeX 2.9/fo
-nts/type1/public/cm-super/sfss1200.pfb><C:/MiKTeX 2.9/fonts/type1/public/cm-sup
-er/sfss1728.pfb><C:/MiKTeX 2.9/fonts/type1/public/cm-super/sfss2488.pfb><C:/MiK
-TeX 2.9/fonts/type1/public/cm-super/sfsx1200.pfb><C:/MiKTeX 2.9/fonts/type1/pub
-lic/cm-super/sfsx1728.pfb>
-Output written on "C:/Users/mh8g10/Documents/GitHub/Glyn-Court-Work/A Village I
-nheritance/build/A Village Inheritance.pdf" (208 pages, 16618857 bytes).
+ 39i,5n,39p,3692b,1160s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Mikey\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknap
+pen\ec\dpi600\ecsx1440.pk>{C:/Users/Mikey/AppData/Roaming/MiKTeX/2.9/fonts/enc/
+dvips/adforn/OrnementsADF.enc} <C:\Users\Mikey\AppData\Local\MiKTeX\2.9\fonts\p
+k\ljfour\jknappen\ec\dpi600\ecss1000.pk> <C:\Users\Mikey\AppData\Local\MiKTeX\2
+.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsi1095.pk> <C:\Users\Mikey\AppData\Loca
+l\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1095.pk> <C:\Users\Mikey\Ap
+pData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1095.pk> <C:\User
+s\Mikey\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1440.pk
+> <C:\Users\Mikey\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\e
+css2074.pk><C:/Users/Mikey/AppData/Roaming/MiKTeX/2.9/fonts/type1/arkandis/adfo
+rn/OrnementsADF.pfb>
+Output written on "C:\Users\Mikey\Documents\GitHub\Glyn-Court-Work\A Village In
+heritance\build\A Village Inheritance.pdf" (195 pages, 16611230 bytes).
 PDF statistics:
- 719 PDF objects out of 1000 (max. 8388607)
+ 1010 PDF objects out of 1200 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  86 words of extra memory for PDF output out of 10000 (max. 10000000)
 
