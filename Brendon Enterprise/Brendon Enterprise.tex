@@ -1,16 +1,107 @@
-\documentclass[10pt,a4paper]{article}
+\documentclass[11pt]{book}
 \usepackage[utf8]{inputenc}
-\usepackage{amsmath}
-\usepackage{amsfonts}
-\usepackage{amssymb}
+\usepackage[bmargin=0.65in, headsep = 0.5cm, footskip = 0.75cm, tmargin = 0.75in, bindingoffset=0.25in, outer = 0.5in, paperwidth=6.125 in, paperheight= 9.250in]{geometry} 
+
+% Packages
+% -------------------------
+\usepackage{adforn} % For adding flourish
+\usepackage{graphicx} % for figures
+\usepackage{enumitem} % Allows lists to have no item space
+\usepackage[font={small}]{caption} % Allows captions to be altered
+\usepackage{tabularx,array} % For tables. Used to format lists
+\pdfmapfile{+OrnementsADF.map}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{pgfornament}  % For creating flourishes
+\usepackage{emptypage}  % pre­vents page num­bers and head­ings from ap­pear­ing on empty pages.
+\usepackage{parskip}
+
+
+% Custom Chapter Heading
+% --------------------------
+\usepackage{xcolor}
+\usepackage[explicit]{titlesec}%
+\newlength\rulew
+\titleformat{\chapter}[block]
+{\filleft\sffamily\bfseries}
+{\fontsize{60}{20}\selectfont\textcolor{gray!80!}{\thechapter}\hskip8mm\titlerule[0.8pt]}
+{0em}
+{\fontsize{26}{26}\bfseries\llap{\parbox[b]{0.85\linewidth}{\filleft#1\vskip0.6ex}}}%
+\titlespacing*{\chapter}{0pt}{2pt}{5ex}
+
+% Custom Heading Style
+% -------------------------
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt} % Remove header line
+
+% Custom Commands
+% -------------------------
+\newcommand{\Chapter}[2]{\chapter[#1]{#1\\ \vspace{0.0cm} \textcolor{gray!80!}{\small#2}}}  % Add subtitle to chapter
+
+%Add Flourish to separate text
+\newcommand{\Flourish}{
+\vspace{0mm}
+\begin{center}
+\pgfornament[width = 4cm]{82}
+\vspace{0mm}
+\end{center}} 
+
+\newcommand*{\plogo}{\fbox{\textbf{MH}}} % Generic publisher logo
+\newcommand{\quotemark}[1]{``{#1}''}
+
+% Styles and Formatting
+% ------------------------
+
+% Change font for all document
+{\fontfamily{cmss}\selectfont
+  \renewcommand{\encodingdefault}{T1}
+  \renewcommand{\rmdefault}{cmss}
+
+% Prevent Widows and Orphan Lines
+\widowpenalty10000
+\clubpenalty10000
+\setlength{\parindent}{0ex} % Removes paragraph indent
+\setcounter{tocdepth}{0} % Set Number of Levels to TOC
+\setlength{\parskip}{0.5em} % Change Paragraph spacing
+
 
 \title{The Brendon Enterprise}
 \author{Glyn Court}
 \date{}
 
+\newcommand*{\titleBC}{\begingroup % Create the command for including the title page in the document
+\centering % Center all text
+\huge{The Brendon Enterprise} % Title
+
+\vfill % Whitespace between the title and the author name
+\Large{Glyn Court} % Author name
+
+\vfill % Whitespace between the author name and the publisher logo
+\normalsize
+\plogo\\[0.5\baselineskip]
+2018 \\% Year published
+\centering
+Edited \& Published by Michael Harper \\
+
+\endgroup}
+
+
 \begin{document}
 
-\maketitle
+\frontmatter
+
+\thispagestyle{empty}  % Removes page numbers
+\titleBC 
+
+\tableofcontents
+
+\mainmatter	
+
+
+
+\chapter{The Beginnings}
 
 Exmoor, Dartmoor, Quantocks, Chilterns, Cheviots, Cotswolds, most people have at least heard of them; but how many could point on a map of England to the Brendon Hills?
 
@@ -113,7 +204,7 @@ By this time (1859) the mine at Gupworthy was proving valuable and yielding so m
 
 The goods mentioned above, with mining equipment and supplies for the shops and stores which opened on the hill made up the  main freight business for twenty-five years. Nothing sensational happened, no blasting charges exploded, but two events took place to show that the line was serving a wider community that simply the miners.  In 1858 the simple Anglican chapel of ease, with its west gallery for orchestra,  which had served the people of the hamlet and nearby farms since the thirteenth century, was condemned for demolition, and in 1862 it was  replaced by a larger red sandstone church in Victorian Gothic. The stone was quarried at Lodge, near Bilbrook, brought by cart to Roadwater, brought thence by train to Pitt Mill, and then carted up the steep, narrow lane to Leighland.
 
-\section{Buildings}
+\chapter{Buildings}
 
 Bridge at top of Incline, and station and House: iron plate attached to wall,date 1865. 
    (From Book of Roadwater): The Ebbw Vale Company had not meant at first to provide  public transport; but in so doing they won more good will than they could have expected, and even after the mines closed down in 1883 the terms of their charter obliged them to go on operating the train for another  15 years.”
@@ -179,7 +270,7 @@ Sometimes, too, sheer cussedness – or perhaps love of a joke – may have play
   “Not much,” he said. “I been to the farm to ring some pigs.”
       Happy days, when speed and urgency were rarely called for outside an operating theatre! 
       
-\section{People}    
+\chapter{People}    
 
 At mid-century, as shown by the 1851 Census, the population of the rural parishes that the mineral line would serve – and excluding the town  of Watchet – was some 3,000 (??), namely : Old Cleeve  (1550), Nettlecombe (353), Treborough ( 142  ), Clatworthy (part) (        ), Withiel Florey (104)  and Kingsbrompton (part) (30), and of those 3,000  all  but 20 ?? had been born in Somerset, and most of these in the immediate neighbourhood.  (The few exceptions were members of the professions, the Anglican clergy and the landed families at Chapel Cleeve and Nettlecombe Court). In 1861 the picture was very different. The population had risen to 3000: Old Cleeve 1,529; Nettlecombe (327; Treborough 183; Clatworthy (part)  30?; Withiel Florey  (164) , Kingsbrompton (929). 
 
@@ -191,7 +282,7 @@ To cater for the daily needs of the mining families, John Vickery, of Luxborough
 
 The 250 people of the mining community occupied some 60 dwellings on the hill, which, averaging a little over four per dwelling, seems roomy enough by the standards of the time, but averages are deceptive, for the better homes had two storeys with two rooms on each floor, but the poorer ones had only one bedroom, and that in the loft.  A court hearing in 1866 revealed that in one cottage, three miners, the wife of one of them and a child, all slept in the same room.     Working conditions underground were hard, as everywhere, and although the mines were free of the disasters of coal mining, having little dust and no fire damp, most years mere marked by one or more deaths due to blasting, a roof caving in, falls down shafts or suffocation by foul air. The Company does not seem to have been unduly negligent toward its workmen – indeed, it employed two surgeons to look after their health – but many years passed before they installed proper facilities for the miners to dry and change their clothes. Working hours were long – 7 a.m. to 4.0 p.m. or 9 p.m. to 6.0 a.m.  Monday    to Saturday – a 54-hour week – but this was far from unusual, and most farm workers would gladly have settled for a nine-hour working day.
 
-\section{Accidents}
+\chapter{Accidents}
 
 Those who had a mind for a social life did not let the working hours deter them, and for such an isolated area the opportunities were surprising plentiful. The Company ran the industry on the total abstinence principle, and the bibulously-minded had to amble along to the Raleigh’s Cross Inn.3 The landlord, Mr J. Beamish, and his wife seem to have run the place firmly and efficiently, also serving picnic teas in the summer, but fights were of course frequent, and in one between Somerset and Cornish miners in 1866 the landlord himself was assaulted, together with the policeman from Kingsbrompton who had come to restore order.
 
