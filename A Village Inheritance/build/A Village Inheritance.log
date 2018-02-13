@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.22)  22 JAN 2018 01:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.22)  13 FEB 2018 20:04
 entering extended mode
 **"./A Village Inheritance.tex"
 ("A Village Inheritance.tex"
@@ -839,14 +839,20 @@ orian.code.tex))
 Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty 
 pages
 )
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\afterpage.sty"
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks35
+\AP@partial=\box38
+\AP@footins=\box39
+)
 (C:\Users\Mikey\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titlesec.sty
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
-\ttl@box=\box38
+\ttl@box=\box40
 \beforetitleunit=\skip46
 \aftertitleunit=\skip47
 \ttl@plus=\dimen174
 \ttl@minus=\dimen175
-\ttl@toksa=\toks35
+\ttl@toksa=\toks36
 \titlewidth=\dimen176
 \titlewidthlast=\dimen177
 \titlewidthfirst=\dimen178
@@ -869,27 +875,31 @@ s
 \f@nch@O@olf=\skip56
 \f@nch@O@orf=\skip57
 )
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 57.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 58.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmss.fd"
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 ("C:\Users\Mikey\Documents\GitHub\Glyn-Court-Work\A Village Inheritance\build\A
- Village Inheritance.aux")
+ Village Inheritance.aux"
+
+LaTeX Warning: Label `fig:SomersetLife' multiply defined.
+
+)
 \openout1 = `"A Village Inheritance.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -930,15 +940,15 @@ LaTeX Font Info:    ... okay on input line 105.
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count114
 \scratchdimen=\dimen179
-\scratchbox=\box39
+\scratchbox=\box41
 \nofMPsegments=\count115
 \nofMParguments=\count116
-\everyMPshowfont=\toks36
+\everyMPshowfont=\toks37
 \MPscratchCnt=\count117
 \MPscratchDim=\dimen180
 \MPnumerator=\count118
 \makeMPintoPDFobject=\count119
-\everyMPtoPDFconversion=\toks37
+\everyMPtoPDFconversion=\toks38
 ) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
 Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -997,7 +1007,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [2] [3] [4
 
 ]
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 113.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 114.
 
  ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmss.fd"
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1077,11 +1087,8 @@ File: figures/Glasses.jpg Graphic file (type jpg)
 <use figures/Glasses.jpg>
 Package pdftex.def Info: figures/Glasses.jpg used on input line 35.
 (pdftex.def)             Requested size: 337.5004pt x 221.37898pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [14]
-<figures/bridgeVillageShop.jpg, id=80, 160.6pt x 109.6095pt>
+<figures/bridgeVillageShop.jpg, id=79, 160.6pt x 109.6095pt>
 File: figures/bridgeVillageShop.jpg Graphic file (type jpg)
 
 <use figures/bridgeVillageShop.jpg>
@@ -1093,38 +1100,38 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [15]
 [16 <./figures/Glasses.jpg> <./figures/bridgeVillageShop.jpg>] [17]
 (C:\Users\Mikey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgfornament\vectorian\ve
-ctorian82.pgf)) (Chapters/C4_MyFather.tex [18]
+ctorian82.pgf)) (Chapters/C4_MyFather.tex [18] [19] [20
+
+]
 Chapter 4.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [19
-
-]
-<figures/WilliamCourt.jpg, id=97, 244.2726pt x 365.2044pt>
+ [21]
+<figures/WilliamCourt.jpg, id=102, 2035.605pt x 3043.37pt>
 File: figures/WilliamCourt.jpg Graphic file (type jpg)
 
 <use figures/WilliamCourt.jpg>
 Package pdftex.def Info: figures/WilliamCourt.jpg used on input line 11.
-(pdftex.def)             Requested size: 337.5004pt x 504.62903pt.
+(pdftex.def)             Requested size: 337.5004pt x 504.54916pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [20]
-[21 <./figures/WilliamCourt.jpg>]) (Chapters/C5_MyFirstVisit.tex [22]
+ [22]
+[23 <./figures/WilliamCourt.jpg>]) (Chapters/C5_MyFirstVisit.tex [24]
 Chapter 5.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [23
+ [25
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [24]
+ [26]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [25]
+ [27]
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 15.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
@@ -1160,36 +1167,35 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [26]
-[27]) (Chapters/C6_TimesRemembered.tex [28]
+ [28]
+[29]) (Chapters/C6_TimesRemembered.tex [30]
 Chapter 6.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [29
+ [31
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [30]
-<figures/familyPhoto.jpg, id=135, 433.9485pt x 314.3745pt>
+ [32]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [33]
+<figures/familyPhoto.jpg, id=144, 433.9485pt x 312.732pt>
 File: figures/familyPhoto.jpg Graphic file (type jpg)
 
 <use figures/familyPhoto.jpg>
-Package pdftex.def Info: figures/familyPhoto.jpg used on input line 18.
-(pdftex.def)             Requested size: 337.5004pt x 244.50595pt.
-
+Package pdftex.def Info: figures/familyPhoto.jpg used on input line 20.
+(pdftex.def)             Requested size: 337.5004pt x 243.22849pt.
+) (Chapters/C7_TheBuildingOfTheHouse.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [31])
-(Chapters/C7_TheBuildingOfTheHouse.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [32 <./figures/familyPhoto.jpg>] [33] [34
+ [34 <./figures/familyPhoto.jpg>] [35] [36
 
 ]
 Chapter 7.
-<figures/WashfordMap1910.jpg, id=149, 715.473pt x 914.8725pt>
+<figures/WashfordMap1910.jpg, id=154, 715.473pt x 914.8725pt>
 File: figures/WashfordMap1910.jpg Graphic file (type jpg)
 
 <use figures/WashfordMap1910.jpg>
@@ -1198,19 +1204,19 @@ Package pdftex.def Info: figures/WashfordMap1910.jpg used on input line 6.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [35]
-[36 <./figures/WashfordMap1910.jpg>]
-<figures/Washford1900s.jpg, id=156, 487.3407pt x 329.67165pt>
+ [37]
+[38 <./figures/WashfordMap1910.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [39]
+<figures/Washford1900s.jpg, id=165, 487.3407pt x 329.67165pt>
 File: figures/Washford1900s.jpg Graphic file (type jpg)
 
 <use figures/Washford1900s.jpg>
-Package pdftex.def Info: figures/Washford1900s.jpg used on input line 14.
+Package pdftex.def Info: figures/Washford1900s.jpg used on input line 18.
 (pdftex.def)             Requested size: 337.5004pt x 228.31877pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [37 <./figures/Washford1900s.jpg>]
-<figures/WashfordGarden1900.jpg, id=161, 383.031pt x 231.14355pt>
+<figures/WashfordGarden1900.jpg, id=166, 383.031pt x 231.14355pt>
 File: figures/WashfordGarden1900.jpg Graphic file (type jpg)
 
 <use figures/WashfordGarden1900.jpg>
@@ -1219,55 +1225,65 @@ Package pdftex.def Info: figures/WashfordGarden1900.jpg used on input line 24.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [38]
+ [40]
+[41 <./figures/Washford1900s.jpg> <./figures/WashfordGarden1900.jpg>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [39]
-<figures/HillHeadHouse.jpg, id=168, 2154.54938pt x 1387.43344pt>
+ [42
+
+]
+<figures/HillHeadHouse.jpg, id=176, 2872.7325pt x 1849.91125pt>
 File: figures/HillHeadHouse.jpg Graphic file (type jpg)
 
 <use figures/HillHeadHouse.jpg>
-Package pdftex.def Info: figures/HillHeadHouse.jpg used on input line 38.
-(pdftex.def)             Requested size: 337.5004pt x 217.33636pt.
+Package pdftex.def Info: figures/HillHeadHouse.jpg used on input line 46.
+(pdftex.def)             Requested size: 337.5004pt x 217.32227pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [40]
-[41 <./figures/WashfordGarden1900.jpg> <./figures/HillHeadHouse.jpg>]
-<figures/OldPostOffice.jpg, id=175, 689.9376pt x 469.2732pt>
+<figures/OldPostOffice.jpg, id=177, 689.9376pt x 469.2732pt>
 File: figures/OldPostOffice.jpg Graphic file (type jpg)
 
 <use figures/OldPostOffice.jpg>
-Package pdftex.def Info: figures/OldPostOffice.jpg used on input line 51.
+Package pdftex.def Info: figures/OldPostOffice.jpg used on input line 52.
 (pdftex.def)             Requested size: 337.5004pt x 229.56636pt.
+
+<figures/Cottages.jpg, id=178, 629.35126pt x 928.21782pt>
+File: figures/Cottages.jpg Graphic file (type jpg)
+
+<use figures/Cottages.jpg>
+Package pdftex.def Info: figures/Cottages.jpg used on input line 58.
+(pdftex.def)             Requested size: 337.5004pt x 497.77428pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [42 <./figures/OldPostOffice.jpg>]
+ [43]
+[44 <./figures/HillHeadHouse.jpg> <./figures/OldPostOffice.jpg>] [45 <./figures
+/Cottages.jpg>]
 (C:\Users\Mikey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgfornament\vectorian\ve
-ctorian82.pgf) [43]) (Chapters/C8_OfOakenThings.tex [44] [45] [46
+ctorian82.pgf) [46
 
-]
+]) (Chapters/C8_OfOakenThings.tex [47] [48]
 Chapter 8.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [47]
+ [49
+
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [48]
+ [50]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [49])
-(Chapters/C9_AnArtistAtHome.tex [50]
+ [51])
+(Chapters/C9_AnArtistAtHome.tex [52]
 Chapter 9.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [51
+ [53
 
 ]
-<figures/Fireplace.jpg, id=208, 795.2985pt x 761.1345pt>
+<figures/Fireplace.jpg, id=214, 795.2985pt x 761.1345pt>
 File: figures/Fireplace.jpg Graphic file (type jpg)
 
 <use figures/Fireplace.jpg>
@@ -1276,45 +1292,42 @@ Package pdftex.def Info: figures/Fireplace.jpg used on input line 13.
 
 Underfull \vbox (badness 1789) has occurred while \output is active []
 
- [52 <./figures/Fireplace.jpg>]
+ [54 <./figures/Fireplace.jpg>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [53])
-(Chapters/C10_TheGarden.tex [54]
+ [55])
+(Chapters/C10_TheGarden.tex [56]
 Chapter 10.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [55
+ [57
 
 ]
 (C:\Users\Mikey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgfornament\vectorian\ve
-ctorian82.pgf) [56] <figures/CleeveAbbey.jpg, id=225, 391.9005pt x 247.3605pt>
+ctorian82.pgf) [58] <figures/CleeveAbbey.jpg, id=231, 391.9005pt x 247.3605pt>
 File: figures/CleeveAbbey.jpg Graphic file (type jpg)
 
 <use figures/CleeveAbbey.jpg>
 Package pdftex.def Info: figures/CleeveAbbey.jpg used on input line 17.
 (pdftex.def)             Requested size: 337.5004pt x 213.03539pt.
 
-<figures/ChapterHouse.jpg, id=226, 416.538pt x 292.365pt>
+<figures/ChapterHouse.jpg, id=232, 416.538pt x 292.365pt>
 File: figures/ChapterHouse.jpg Graphic file (type jpg)
 
 <use figures/ChapterHouse.jpg>
 Package pdftex.def Info: figures/ChapterHouse.jpg used on input line 24.
 (pdftex.def)             Requested size: 337.5004pt x 236.8902pt.
- [57 <./figures/CleeveAbbey.jpg>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [58 <./figures/ChapterHouse.jpg>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [59]
+[60 <./figures/CleeveAbbey.jpg> <./figures/ChapterHouse.jpg>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [60]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [61
 
- [61]
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [62]
@@ -1324,40 +1337,48 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [64]
-<figures/James1913.jpg, id=252, 229.3368pt x 141.1674pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [65]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [66]
+<figures/James1913.jpg, id=258, 229.3368pt x 141.1674pt>
 File: figures/James1913.jpg Graphic file (type jpg)
 
 <use figures/James1913.jpg>
-Package pdftex.def Info: figures/James1913.jpg used on input line 63.
+Package pdftex.def Info: figures/James1913.jpg used on input line 65.
 (pdftex.def)             Requested size: 337.5004pt x 207.76773pt.
 
-<figures/Postcard.jpg, id=253, 391.34206pt x 251.37915pt>
+<figures/Postcard.jpg, id=259, 391.34206pt x 251.37915pt>
 File: figures/Postcard.jpg Graphic file (type jpg)
 
 <use figures/Postcard.jpg>
-Package pdftex.def Info: figures/Postcard.jpg used on input line 70.
+Package pdftex.def Info: figures/Postcard.jpg used on input line 72.
 (pdftex.def)             Requested size: 337.5004pt x 216.80707pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [65]
-[66 <./figures/James1913.jpg> <./figures/Postcard.jpg>])
-(Chapters/C11_AnArtistAbroad.tex [67] [68
+ [67]
+[68 <./figures/James1913.jpg> <./figures/Postcard.jpg>])
+(Chapters/C11_AnArtistAbroad.tex [69
+
+] [70
 
 ]
 Chapter 11.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [69]
+ [71]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [70]
+ [72]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 27.
 
-<figures/Summerhouse.jpg, id=273, 864.612pt x 1294.29pt>
+<figures/Summerhouse.jpg, id=279, 864.612pt x 1294.29pt>
 File: figures/Summerhouse.jpg Graphic file (type jpg)
 
 <use figures/Summerhouse.jpg>
@@ -1366,213 +1387,234 @@ Package pdftex.def Info: figures/Summerhouse.jpg used on input line 29.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [71]
-[72 <./figures/Summerhouse.jpg>]
+ [73]
+[74 <./figures/Summerhouse.jpg>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [73]
+ [75]
 Underfull \hbox (badness 10000) in paragraph at lines 49--52
 
  []
 
-) (Chapters/C12_BusinessAsIRemeberIt.tex [74]
+) (Chapters/C12_BusinessAsIRemeberIt.tex [76]
 Chapter 12.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [75
+ [77
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [76]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [77]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [78]
-Underfull \hbox (badness 10000) in paragraph at lines 42--46
+<figures/Receipt.jpg, id=299, 577.25662pt x 244.09192pt>
+File: figures/Receipt.jpg Graphic file (type jpg)
 
- []
-
+<use figures/Receipt.jpg>
+Package pdftex.def Info: figures/Receipt.jpg used on input line 27.
+(pdftex.def)             Requested size: 337.5004pt x 142.70938pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [79]
-[80] [81]
-Underfull \hbox (badness 10000) in paragraph at lines 90--91
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [80]
+Underfull \hbox (badness 10000) in paragraph at lines 49--53
 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [82]
-Underfull \hbox (badness 10000) in paragraph at lines 102--103
+ [81]
+[82] [83]
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [83])
-(Chapters/C13_TheBakehouse.tex [84]
+ [84]
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [85])
+(Chapters/C13_TheBakehouse.tex
+Underfull \vbox (badness 6268) has occurred while \output is active []
+
+ [86]
+[87] [88 <./figures/Receipt.jpg>]
 Chapter 13.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [85
+ [89
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [86])
-(Chapters/C14_TheWomenOfTheFamily.tex [87] [88
+ [90])
+(Chapters/C14_TheWomenOfTheFamily.tex [91] [92
 
 ]
 Chapter 14.
 
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 7.
-
-<figures/DapperPony.png, id=331, 1563.59157pt x 941.76843pt>
-File: figures/DapperPony.png Graphic file (type png)
-
-<use figures/DapperPony.png>
-Package pdftex.def Info: figures/DapperPony.png used on input line 9.
-(pdftex.def)             Requested size: 337.5004pt x 203.28099pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [89]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [90 <./figures/DapperPony.png>]
-Underfull \vbox (badness 7186) has occurred while \output is active []
-
- [91]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [92]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [93]
-(C:\Users\Mikey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgfornament\vectorian\ve
-ctorian82.pgf) [94]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [95]
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 16.
+
+<figures/DapperPony.png, id=348, 1563.59157pt x 941.76843pt>
+File: figures/DapperPony.png Graphic file (type png)
+
+<use figures/DapperPony.png>
+Package pdftex.def Info: figures/DapperPony.png used on input line 18.
+(pdftex.def)             Requested size: 337.5004pt x 203.28099pt.
+ [94]
+Underfull \vbox (badness 3271) has occurred while \output is active []
+
+ [95 <./figures/DapperPony.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [96]
-[97]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [98]
+ [97]
+(C:\Users\Mikey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgfornament\vectorian\ve
+ctorian82.pgf) [98]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [99]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [100]
+[101]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [101]
+ [102]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [102])
-(Chapters/C15_WeInheritTheProperty.tex [103] [104
+ [103]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [104]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [105])
+(Chapters/C15_WeInheritTheProperty.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [106]
+[107] [108
 
 ]
 Chapter 15.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [105]
+ [109]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 10.
+
+<figures/HillHeadHouse1960.jpg, id=401, 227.10847pt x 148.69553pt>
+File: figures/HillHeadHouse1960.jpg Graphic file (type jpg)
+
+<use figures/HillHeadHouse1960.jpg>
+Package pdftex.def Info: figures/HillHeadHouse1960.jpg used on input line 11.
+(pdftex.def)             Requested size: 337.5004pt x 220.98482pt.
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [106]
+ [110]
+[111 <./figures/HillHeadHouse1960.jpg>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [107]
+ [112]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [108]
-[109]
+ [113]
+[114]) (Chapters/C16_BriefFlirtationWithCommerce.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [110])
-(Chapters/C16_BriefFlirtationWithCommerce.tex
+ [115]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [111]
-[112]
+ [116]
+[117] [118
+
+]
 Chapter 16.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [113
-
-]
+ [119]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [114]
+ [120]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [115]
-[116]
+ [121]
+[122]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [117]
+ [123]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [118]
+ [124]
 Underfull \vbox (badness 2189) has occurred while \output is active []
 
- [119])
-(Chapters/C17_TimesBestForgotten.tex [120]
+ [125])
+(Chapters/C17_TimesBestForgotten.tex [126]
 Chapter 17.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [121
+ [127
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [122])
-(Chapters/C18_Problems.tex [123] [124
+ [128])
+(Chapters/C18_Problems.tex [129] [130
 
 ]
 Chapter 18.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [125]
+ [131]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [126]
+ [132]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [127]
+ [133]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [128]
+ [134]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [129]
+ [135]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [130]
-[131] <figures/HillHeadHouse1970.jpg, id=468, 559.73116pt x 424.4658pt>
+ [136]
+[137] <figures/HillHeadHouse1970.jpg, id=490, 559.73116pt x 424.4658pt>
 File: figures/HillHeadHouse1970.jpg Graphic file (type jpg)
 
 <use figures/HillHeadHouse1970.jpg>
 Package pdftex.def Info: figures/HillHeadHouse1970.jpg used on input line 63.
 (pdftex.def)             Requested size: 337.5004pt x 255.94441pt.
-) (Chapters/C19_MakingTheMuseum.tex [132]
-[133 <./figures/HillHeadHouse1970.jpg>] [134
+) (Chapters/C19_MakingTheMuseum.tex [138]
+[139 <./figures/HillHeadHouse1970.jpg>] [140
 
 ]
 Chapter 19.
@@ -1584,103 +1626,149 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--15
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [135]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [136]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [137]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [138]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [139]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [140]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [141]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [142])
-(Chapters/C20_TreasureTrove.tex [143] [144
+ [142]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-]
+ [143]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [144]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [145]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 40.
+
+<figures/Museum2.jpg, id=517, 550.87808pt x 400.19513pt>
+File: figures/Museum2.jpg Graphic file (type jpg)
+
+<use figures/Museum2.jpg>
+Package pdftex.def Info: figures/Museum2.jpg used on input line 41.
+(pdftex.def)             Requested size: 337.5004pt x 245.1812pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [146 <./figures/Museum2.jpg>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 48.
+
+<figures/Museum.jpg, id=521, 387.72855pt x 389.89665pt>
+File: figures/Museum.jpg Graphic file (type jpg)
+
+<use figures/Museum.jpg>
+Package pdftex.def Info: figures/Museum.jpg used on input line 49.
+(pdftex.def)             Requested size: 337.5004pt x 339.39177pt.
+
+Underfull \vbox (badness 3098) has occurred while \output is active []
+
+ [147 <./figures/Museum.jpg>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 60.
+
+<figures/SomersetLife.jpg, id=525, 422.96017pt x 474.45255pt>
+File: figures/SomersetLife.jpg Graphic file (type jpg)
+
+<use figures/SomersetLife.jpg>
+Package pdftex.def Info: figures/SomersetLife.jpg used on input line 61.
+(pdftex.def)             Requested size: 337.5004pt x 378.60693pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [148]
+[149 <./figures/SomersetLife.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [150])
+(Chapters/C20_TreasureTrove.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [151]
+[152]
 Chapter 20.
 
 Underfull \vbox (badness 1472) has occurred while \output is active []
 
- [145]
-[146]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [147]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [148]
-Underfull \vbox (badness 5388) has occurred while \output is active []
-
- [149]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [150]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [151]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [152])
-(Chapters/C21_MenAndTheirMonuments.tex [153] [154
+ [153
 
 ]
-Chapter 21.
-
+[154]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [155]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [156]
+[157]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [158]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [159]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [160])
+(Chapters/C21_MenAndTheirMonuments.tex [161] [162
+
+]
+Chapter 21.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [163]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [164]
 Underfull \hbox (badness 10000) in paragraph at lines 24--25
 
  []
 
-[157] [158]
+[165] [166]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [159]
-[160] [161] [162] [163]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [167]
+[168] <figures/Boneshaker.jpg, id=593, 445.00252pt x 439.22093pt>
+File: figures/Boneshaker.jpg Graphic file (type jpg)
 
- [164]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [165]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [166]
-[167]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [168]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+<use figures/Boneshaker.jpg>
+Package pdftex.def Info: figures/Boneshaker.jpg used on input line 68.
+(pdftex.def)             Requested size: 337.5004pt x 333.11436pt.
  [169]
-[170]) (Chapters/C22_Epilogue.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [171]
-[172]
+ [170 <./figures/Boneshaker.jpg>] [171]
+Underfull \vbox (badness 3579) has occurred while \output is active []
+
+ [172]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [173]
+[174]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [175]
+[176]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [177]
+[178]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [179])
+(Chapters/C22_Epilogue.tex [180]
 Chapter 22.
 
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-) [173
+) [181
 
 ]
 ("C:\Users\Mikey\Documents\GitHub\Glyn-Court-Work\A Village Inheritance\build\A
@@ -1689,27 +1777,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 57 ({)
+### simple group (level 1) entered at line 58 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 14851 strings out of 493323
- 291966 string characters out of 3139066
- 334223 words of memory out of 3000000
- 17944 multiletter control sequences out of 15000+200000
+ 14911 strings out of 493323
+ 293181 string characters out of 3139066
+ 334813 words of memory out of 3000000
+ 17994 multiletter control sequences out of 15000+200000
  45383 words of font info for 50 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,12n,61p,3692b,1260s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,12n,61p,3692b,1263s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Mikey\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknap
 pen\ec\dpi600\ecsx1440.pk> <C:\Users\Mikey\AppData\Local\MiKTeX\2.9\fonts\pk\lj
-four\jknappen\ec\dpi600\ecss0900.pk> <C:\Users\Mikey\AppData\Local\MiKTeX\2.9\f
-onts\pk\ljfour\jknappen\ec\dpi600\ecss0600.pk> <C:\Users\Mikey\AppData\Local\Mi
-KTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss0800.pk> <C:\Users\Mikey\AppDat
-a\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsi1095.pk> <C:\Users\Mi
+four\jknappen\ec\dpi600\ecsi1095.pk> <C:\Users\Mikey\AppData\Local\MiKTeX\2.9\f
+onts\pk\ljfour\jknappen\ec\dpi600\ecss0900.pk> <C:\Users\Mikey\AppData\Local\Mi
+KTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss0600.pk> <C:\Users\Mikey\AppDat
+a\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss0800.pk> <C:\Users\Mi
 key\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1000.pk>{C:
 /Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc} <C:\Users\Mikey\AppData
 \Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1095.pk> <C:\Users\Mik
@@ -1719,9 +1807,9 @@ ey\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1095.pk> <C:
 600\ecss2074.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb
 >
 Output written on "C:\Users\Mikey\Documents\GitHub\Glyn-Court-Work\A Village In
-heritance\build\A Village Inheritance.pdf" (179 pages, 25171116 bytes).
+heritance\build\A Village Inheritance.pdf" (187 pages, 32206577 bytes).
 PDF statistics:
- 1011 PDF objects out of 1200 (max. 8388607)
+ 1047 PDF objects out of 1200 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 118 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 153 words of extra memory for PDF output out of 10000 (max. 10000000)
 
