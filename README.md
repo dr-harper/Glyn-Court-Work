@@ -8,5 +8,5 @@ Going forward, I hope to add to the the list of works that are digitised.
 
 ## Work Complete
 
-- A Village Inheritance: a book written about the family history and home in Washford
+- A Village Inheritance: a book written about the family history and home in Washford: [A Village Inheritance/build/A Village Inheritance.pdf](A Village Inheritance/build/A Village Inheritance.pdf)
 - The Brendan Enterprise: A short piece of work about the Mineral Line in West Somerset
