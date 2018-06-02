@@ -1,0 +1,203 @@
+\documentclass[11pt]{book}
+\usepackage[utf8]{inputenc}
+\usepackage[bmargin=0.65in, headsep = 0.5cm, footskip = 0.75cm, tmargin = 0.75in, bindingoffset=0.25in, outer = 0.5in, paperwidth=6.125 in, paperheight= 9.250in]{geometry} 
+
+% Packages
+% -------------------------
+\usepackage{adforn} % For adding flourish
+\usepackage{graphicx} % for figures
+\usepackage{enumitem} % Allows lists to have no item space
+\usepackage[font={small}]{caption} % Allows captions to be altered
+\usepackage{tabularx,array} % For tables. Used to format lists
+\pdfmapfile{+OrnementsADF.map}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{pgfornament}  % For creating flourishes
+\usepackage{emptypage}  % pre­vents page num­bers and head­ings from ap­pear­ing on empty pages.
+\usepackage{afterpage}
+
+
+% Custom Chapter Heading
+% --------------------------
+\usepackage{xcolor}
+\usepackage[explicit]{titlesec}%
+\newlength\rulew
+\titleformat{\chapter}[block]
+{\filleft\sffamily\bfseries}
+{\fontsize{60}{20}\selectfont\textcolor{gray!80!}{\thechapter}\hskip8mm\titlerule[0.8pt]}
+{0em}
+{\fontsize{26}{26}\bfseries\llap{\parbox[b]{0.8\linewidth}{\filleft#1\vskip0.6ex}}}%
+\titlespacing*{\chapter}{0pt}{2pt}{5ex}
+
+
+\renewcommand{\baselinestretch}{1.2}
+
+% Custom Heading Style
+% -------------------------
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt} % Remove header line
+
+% Custom Commands
+% -------------------------
+\newcommand{\Chapter}[2]{\chapter[#1]{#1\\ \vspace{0.0cm} \textcolor{gray!80!}{\small#2}}}  % Add subtitle to chapter
+
+%Add Flourish to separate text
+\newcommand{\Flourish}{
+\vspace{0mm}
+\begin{center}
+\pgfornament[width = 4cm]{82}
+\vspace{0mm}
+\end{center}} 
+
+\newcommand*{\plogo}{\fbox{\textbf{MH}}} % Generic publisher logo
+\newcommand{\quotemark}[1]{``{#1}''}
+
+% Styles and Formatting
+% ------------------------
+
+% Change font for all document
+{\fontfamily{cmr}\selectfont
+  \renewcommand{\encodingdefault}{T1}
+  \renewcommand{\rmdefault}{cmss}
+
+% Prevent Widows and Orphan Lines
+\widowpenalty10000
+\clubpenalty10000
+\setlength{\parindent}{2ex} % Removes paragraph indent
+\setcounter{tocdepth}{0} % Set Number of Levels to TOC
+
+
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+
+\newcommand*{\titleBC}{\begingroup % Create the command for including the title page in the document
+\centering % Center all text
+\huge{Stars in a Western Sky} % Title
+
+\vfill % Whitespace between the title and the author name
+\Large{Glyn Court} % Author name
+
+\vfill % Whitespace between the author name and the publisher logo
+\normalsize
+\plogo\\[0.5\baselineskip]
+Written in 2009\\
+Published in \the\year \\% Year published
+\centering
+ISBN: 9781980294450\\
+Edited \& Published by M. Harper \\
+
+\endgroup}
+
+% Book Content
+% ------------
+
+\begin{document}
+
+\frontmatter
+
+\thispagestyle{empty}  % Removes page numbers
+\titleBC 
+
+\newpage
+
+\chapter*{About the Author}
+
+Dr Glyn Court is a historian, linguist, musician, local preacher, former County Councillor, Liberal Parliamentary candidate, and winner of BBC Brain of Britain 1973.\\
+
+He was brought up and educated in West Somerset, where he developed a strong connection with the history and heritage of the county.  He began studying French and German at University College Exeter in 1942, before pausing his study to serve in Burma between 1943-1947. After returning from the war, he completed his degree in 1950, and completed a PhD in music and languages in 1961. \\
+
+With an unusually wide range of interests he has written about military history, music, languages, and on Somerset life and characters, ranging from famous to little-known.  He excels in bringing to life the stories and lost cultures of everyday characters and traditional societies.\\
+
+He was the chairman of Somerset County Libraries and Museums Committee between 1973-1977, 83-91, a District councillor between 89-93, and vice-chairman of the County Council, 1991-93. In recognition of his distinguished service to Somerset, he was awarded the title of Honorary Alderman of Somerset County Council in February 2018.
+
+\newpage
+
+\pagebreak
+\hspace{0pt}
+\vfill
+
+I’ll sing you twelve, oh!\\
+Green grow the rashes, oh!\\
+What are your twelve, oh?\\
+Twelve for the Twelve Apostles,\\
+Eleven for the Eleven who went to Heaven,\\
+Ten for the Ten Commandments;\\
+Nine for the nine bright Shiners,\\
+Eight for the April Rainers,\\
+Seven for the Seven bright Stars on high, and\\
+Six for the Six Proud Walkers;\\
+Five for the Symbols at your door, and\\
+Four for the Gospel-makers.\\
+Three, Three alive – o!\\
+Two, two the Lily-white boys,\\
+ clothe them all in green –o, for\\
+One is One and All Alone, and\\
+ ever more shall be so. \\
+\vfill
+\hspace{0pt}
+\pagebreak
+
+\chapter*{Overview}
+
+
+
+
+\parskip=-0.7em % Negative Parskip set to compress TOC
+\tableofcontents
+
+\mainmatter	
+
+\setlength{\parskip}{0.5em} % Change Paragraph spacing
+
+% Update the headers for the main document
+\fancyhf{}
+\renewcommand{\headrulewidth}{0.2pt} % Remove header line
+\fancyhead[RO]{\leftmark}
+\fancyhead[LE]{Seven Stars and Six Proud Walkers}
+\fancyfoot[CE,CO]{\thepage}
+
+
+\chapter*{Foreword}
+
+Places for map :
+Nettlecombe\\
+North Molton\\
+Exford\\
+Alcombe\\
+Withypool\\
+Knowstone\\
+Roadwater\\
+Timberscombe\\
+Allerford\\
+Luxborough\\
+Watchet\\
+Molland\\
+Winsford\\
+Dulverton\\
+Cutcombe\\
+Bilbrook\\
+Pixton\\
+Yelland\\ ? 
+
+
+% Load Files
+\input{chapters/C1_MaragertTrevelyan.tex}
+\input{chapters/C2_SusannaMusgrave.tex}
+\input{chapters/C3_MargeryParminter.tex}
+\input{chapters/C4_BampfyldeMooreCarew.tex}
+\input{chapters/C5_OldSirHugh.tex}
+\input{chapters/C6_JanAndNathanPalmer.tex}
+\input{chapters/C7_JackFroude.tex}
+\input{chapters/C8_GeorgeMatthewsAndJamesSlade.tex}
+\input{chapters/C9_DanlNethercott.tex}
+\input{chapters/C10_LordyHolcombe.tex}
+\input{chapters/C11_WorthingtonSutton.tex}
+\input{chapters/C12_RichardSlader.tex}
+\input{chapters/C13_AubreyHerbert.tex}
+\input{chapters/C14_ErnestFarmer.tex}
+\input{chapters/C20_Epilogue.tex}
+
+\end{document}

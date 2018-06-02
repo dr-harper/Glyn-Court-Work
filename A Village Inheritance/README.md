@@ -9,6 +9,4 @@ Link to full PDF [here](https://github.com/mikey-harper/Glyn-Court-Work/blob/mas
 
 ## Technical
 
-The book has been produced in LaTeX and formatted for print Using the Blurb tradebook Design.
-
-Aim to convert the work to a bookdown template written in Markdown, but got higher priorities for now.
+The book has been produced in LaTeX and formatted for print the Kindle Direct Publishing.

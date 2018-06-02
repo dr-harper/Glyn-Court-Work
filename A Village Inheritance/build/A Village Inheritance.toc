@@ -1,34 +1,35 @@
 \contentsline {chapter}{\numberline {1}Starting Points}{1}
-\contentsline {chapter}{\numberline {2}Our Parish}{3}
-\contentsline {chapter}{\numberline {3}Roadwater}{13}
-\contentsline {chapter}{\numberline {4}My Father}{21}
-\contentsline {chapter}{\numberline {5}My First Visit}{25}
-\contentsline {chapter}{\numberline {6}Times Remembered}{31}
-\contentsline {chapter}{\numberline {7}The Building of the House}{37}
-\contentsline {chapter}{\numberline {8}Of Oaken Things}{49}
-\contentsline {chapter}{\numberline {9}An Artist at Home}{53}
-\contentsline {chapter}{\numberline {10}The Garden}{57}
-\contentsline {chapter}{\numberline {11}An Artist Abroad}{71}
-\contentsline {chapter}{\numberline {12}The Business as I remember it}{77}
-\contentsline {chapter}{\numberline {13}The Bakehouse}{89}
-\contentsline {chapter}{\numberline {14}The Women of the Family}{93}
-\contentsline {chapter}{\numberline {15}We Inherit the Property}{109}
-\contentsline {chapter}{\numberline {16}Brief Flirtation with Commerce}{119}
-\contentsline {chapter}{\numberline {17}Times Best Forgotten}{127}
-\contentsline {chapter}{\numberline {18}Problems}{131}
-\contentsline {chapter}{\numberline {19}Making the Museum}{141}
-\contentsline {chapter}{\numberline {20}Treasure Trove}{153}
-\contentsline {section}{\numberline {20.1}The Chest}{153}
-\contentsline {section}{\numberline {20.2}The Sewing Machine}{154}
-\contentsline {section}{\numberline {20.3}The Lapstone}{157}
-\contentsline {chapter}{\numberline {21}Men and Their Monuments}{163}
-\contentsline {section}{\numberline {21.1}The Sofa}{165}
-\contentsline {section}{\numberline {21.2}The Engravings}{166}
-\contentsline {section}{\numberline {21.3}The Boneshaker}{168}
-\contentsline {section}{\numberline {21.4}The Post Office Clock}{171}
-\contentsline {section}{\numberline {21.5}The Motor Cycle}{171}
-\contentsline {section}{\numberline {21.6}The Band Books}{172}
-\contentsline {section}{\numberline {21.7}Marine Relics}{174}
-\contentsline {section}{\numberline {21.8}The Watchet Tune Book}{176}
-\contentsline {section}{\numberline {21.9}The Pictures}{178}
-\contentsline {chapter}{\numberline {22}Epilogue}{181}
+\contentsline {chapter}{\numberline {2}Our Parish}{5}
+\contentsline {chapter}{\numberline {3}Roadwater}{15}
+\contentsline {chapter}{\numberline {4}My Father}{23}
+\contentsline {chapter}{\numberline {5}My First Visit}{29}
+\contentsline {chapter}{\numberline {6}Times Remembered}{37}
+\contentsline {chapter}{\numberline {7}The Building of the House}{43}
+\contentsline {chapter}{\numberline {8}Of Oaken Things}{59}
+\contentsline {chapter}{\numberline {9}An Artist at Home}{65}
+\contentsline {chapter}{\numberline {10}The Garden}{71}
+\contentsline {chapter}{\numberline {11}An Artist Abroad}{87}
+\contentsline {chapter}{\numberline {12}The Business as I remember it}{95}
+\contentsline {chapter}{\numberline {13}The Bakehouse}{109}
+\contentsline {chapter}{\numberline {14}The Women of the Family}{113}
+\contentsline {chapter}{\numberline {15}We Inherit the Property}{131}
+\contentsline {chapter}{\numberline {16}Brief Flirtation with Commerce}{141}
+\contentsline {chapter}{\numberline {17}Times Best Forgotten}{151}
+\contentsline {chapter}{\numberline {18}Problems}{155}
+\contentsline {chapter}{\numberline {19}Making the Museum}{165}
+\contentsline {chapter}{\numberline {20}Treasure Trove}{179}
+\contentsline {section}{\numberline {20.1}The Chest}{179}
+\contentsline {section}{\numberline {20.2}The Sewing Machine}{180}
+\contentsline {section}{\numberline {20.3}The Lapstone}{184}
+\contentsline {chapter}{\numberline {21}Men and Their Monuments}{189}
+\contentsline {section}{\numberline {21.1}The Sofa}{191}
+\contentsline {section}{\numberline {21.2}The Engravings}{193}
+\contentsline {section}{\numberline {21.3}The Boneshaker}{196}
+\contentsline {section}{\numberline {21.4}The Post Office Clock}{198}
+\contentsline {section}{\numberline {21.5}The Motor Cycle}{198}
+\contentsline {section}{\numberline {21.6}The Band Books}{199}
+\contentsline {section}{\numberline {21.7}Marine Relics}{202}
+\contentsline {section}{\numberline {21.8}The Watchet Tune Book}{204}
+\contentsline {section}{\numberline {21.9}The Pictures}{207}
+\contentsline {chapter}{\numberline {22}Epilogue}{211}
+\contentsline {chapter}{\numberline {23}A New Chapter}{213}

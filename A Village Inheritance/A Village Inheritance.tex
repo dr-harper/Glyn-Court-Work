@@ -30,6 +30,8 @@
 {\fontsize{26}{26}\bfseries\llap{\parbox[b]{0.8\linewidth}{\filleft#1\vskip0.6ex}}}%
 \titlespacing*{\chapter}{0pt}{2pt}{5ex}
 
+\renewcommand{\baselinestretch}{1.2}
+
 % Custom Heading Style
 % -------------------------
 \usepackage{fancyhdr}
@@ -39,6 +41,14 @@
 % Custom Commands
 % -------------------------
 \newcommand{\Chapter}[2]{\chapter[#1]{#1\\ \vspace{0.0cm} \textcolor{gray!80!}{\small#2}}}  % Add subtitle to chapter
+
+
+% Clear images to left page
+\newcommand*\cleartoleftpage{%
+  \clearpage
+  \ifodd\value{page}\hbox{}\newpage\fi
+}
+
 
 %Add Flourish to separate text
 \newcommand{\Flourish}{
@@ -65,6 +75,10 @@
 \setlength{\parindent}{0ex} % Removes paragraph indent
 \setcounter{tocdepth}{0} % Set Number of Levels to TOC
 
+\pretolerance=10000
+\tolerance=2000 
+\emergencystretch=10pt
+
 % Book Information
 % ----------------
 \title{A Village Inheritance}
@@ -85,13 +99,19 @@
 \normalsize
 \plogo\\[0.5\baselineskip]
 First Edition printed in 1975 \\
-Reprinted in 2018 \\% Year published
+Second Edition printed in 2018 \\% Year published
+ISBN: 9781982900847 \\
 \centering
 Edited \& Published by Michael Harper \\
+
 
 \newpage
 
 To the happy memory of my parents William George and Ada Palser Court \\
+
+\par\raggedleft 
+--- Glyn Court
+
 
 \newpage
 
@@ -99,6 +119,11 @@ To the happy memory of my parents William George and Ada Palser Court \\
 This book is a joint venture, but not to the extent of the authors writing alternate words. To save lengthy explanations, each chapter is prefaced with the name of the author.
 
 \endgroup}
+
+\newpage
+
+
+
 
 % Book Content
 % ------------
@@ -110,12 +135,24 @@ This book is a joint venture, but not to the extent of the authors writing alter
 \thispagestyle{empty}  % Removes page numbers
 \titleBC 
 
+\newpage
+
+\chapter*{About the Author}
+
+Dr Glyn Court is a historian, linguist, musician, local preacher, former County Councillor, Liberal Parliamentary candidate, and winner of BBC Brain of Britain 1973.\\
+
+He was brought up and educated in West Somerset, where he developed a strong connection with the history and heritage of the county.  He began studying French and German at University College Exeter in 1942, before pausing his study to serve in Burma between 1943-1947. After returning from the war, he completed his degree in 1950, and continued his studies with a PhD in music and languages in 1961. \\
+
+With an unusually wide range of interests he has written about military history, music, languages, and on Somerset life and characters, ranging from famous to little-known.  He excels in bringing to life the stories and lost cultures of everyday characters and traditional societies.\\
+
+He was the chairman of Somerset County Libraries and Museums Committee between 1973-1977, 83-91, a District councillor between 89-93, and vice-chairman of the County Council, 1991-93. In recognition of his distinguished service to Somerset, he was awarded the title of Honorary Alderman of Somerset County Council in February 2018.
+
 \parskip=-0.7em % Negative Parskip set to compress TOC
 \tableofcontents
 
 \mainmatter	
 
-\setlength{\parskip}{0.5em} % Change Paragraph spacing
+\setlength{\parskip}{0.75em} % Change Paragraph spacing
 
 % Update the headers for the main document
 \fancyhf{}
@@ -147,5 +184,6 @@ This book is a joint venture, but not to the extent of the authors writing alter
 \input{Chapters/C20_TreasureTrove.tex}
 \input{Chapters/C21_MenAndTheirMonuments.tex}
 \input{Chapters/C22_Epilogue.tex}
+\input{Chapters/C23_TheStoryContinues.tex}
 
 \end{document}
